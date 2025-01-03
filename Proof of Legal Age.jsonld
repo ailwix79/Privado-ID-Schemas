@@ -1,0 +1,19 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "KYC": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:beb066c3-66d6-4d69-8fc4-44f303708f8c#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#"
+                },
+                "@id": "urn:uuid:b7dfce51-0e63-4de8-80f4-f3e041b25531"
+            }
+        }
+    ]
+}
